@@ -79,7 +79,7 @@ const Section: React.FC<SectionProps> = ({ bgClass, textColor, children, lang, c
       className={`min-h-[100dvh] flex flex-col justify-center px-6 py-24 md:px-12 md:py-32 ${bgClass} ${textColor}`}
     >
       <div className="max-w-7xl mx-auto w-full">
-        <p className={`${textStyles} whitespace-pre-wrap ${isKorean ? 'text-justify break-keep' : 'text-left break-words'}`}>
+        <p className={`${textStyles} whitespace-pre-wrap ${isKorean ? 'text-justify break-all' : 'text-left break-words'}`}>
           {children}
         </p>
       </div>
