@@ -11,7 +11,7 @@ Production·Apparition AHN GEON WOO
 음향영상기술 김재성
 Technique audiovisuelle KIM JAE SEONG
 기록·드라마투르기 장민영
-Archivistrice·Dramaturgie JANG MIN YEONG
+Archivistrice·Dramaturgie JANG MIN YOUNG
 운영지원 김도해
 Assistance de production KIM DO HAE
 
