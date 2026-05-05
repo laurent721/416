@@ -48,6 +48,8 @@ Pour éviter tout accident, il est interdit de toucher au matériel scénique.
 Si vous souhaitez un accès pour fauteuil roulant, veuillez vous renseigner.
 *어둠 속에서 이동이 곤란하신 경우 도움을 요청하실 수 있습니다.
 Si vous avez des difficultés à vous déplacer dans l'obscurité, vous pouvez demander de l'aide.
+*이동보조 안내견을 동반하여 극장에 입장할 수 있습니다.
+Vous pouvez entrer dans le théâtre accompagné d'un chien d'assistance.
 
 ※이 사이트는 인간이 입력한 프롬프트를 기반으로 Google ai studio가 생성한 코드로 구축되었으며, 수록된 모든 글은 인간의 창작물이다.
 Ce site a été construit avec du code généré par Google AI Studio à partir de requêtes saisies par des humains, et tous les textes inclus sont une création humaine.
