@@ -13,7 +13,7 @@ Technique audiovisuelle KIM JAE SEONG
 기록·드라마투르기 장민영
 Archivistrice·Dramaturgie JANG MIN YOUNG 
 운영지원 김도해
-Assistance de production KIM DO HAE
+Assistance de l'opération KIM DO HAE
 
 2026년 5월 6일 수요일 12시 개장
 Ouverture Mercredi, le 6 mai 2026. à midi
